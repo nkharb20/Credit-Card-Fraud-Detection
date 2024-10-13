@@ -40,3 +40,7 @@ VII.	 Real-time Prediction:
   c.	Fraud Prediction - Scaled data is passed to the trained model to classify the transaction 
       as fraud or not fraud. Finally, prediction time is recorded to ensure the model is efficient 
       for real-time scenarios.
+
+
+    ![image](https://github.com/user-attachments/assets/8a565b7d-220c-42dc-aefe-9eeff303762d)
+
