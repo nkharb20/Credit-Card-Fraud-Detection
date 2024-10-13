@@ -42,5 +42,5 @@ VII.	 Real-time Prediction:
       for real-time scenarios.
 
 
-    ![image](https://github.com/user-attachments/assets/8a565b7d-220c-42dc-aefe-9eeff303762d)
+   ![image](https://github.com/user-attachments/assets/8a565b7d-220c-42dc-aefe-9eeff303762d)
 
